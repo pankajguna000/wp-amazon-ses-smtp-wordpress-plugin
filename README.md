@@ -1,0 +1,1 @@
+# wp-amazon-ses-smtp-wordpress-plugin
